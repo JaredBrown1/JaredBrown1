@@ -4,7 +4,7 @@
 
 I'm a Full Stack Web Dev who is passionate about writing code, solving problems, and building web applications.
 
-- 🔭 I’m currently a student at Lambda School.
+- 🔭 I’m a Lambda School Grad 🎓.
 - 📚 I’m currently learning  frontend and backend web development using JavaScript, React, Redux, NodeJS, ExpressJS
 - 👯 I’m looking for a Full Stack Web or Frontend development positions. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jared-brown1/) [Gmail](jared.fe.brown@gmail.com)
